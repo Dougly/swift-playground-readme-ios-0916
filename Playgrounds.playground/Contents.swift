@@ -1,2 +1,3 @@
 let str = "Hello, world"
-str = "Goodbye, world"
+var str2 = "Goodbye, world"
+let num = 1
